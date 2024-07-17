@@ -115,7 +115,7 @@ struct ChatView: View {
                         .foregroundColor(.white)
                         .cornerRadius(8)
                 }
-//                .buttonStyle(PlainButtonStyle())
+                .buttonStyle(PlainButtonStyle())
                 .foregroundColor(.clear)
                 .padding(.trailing)
             }
